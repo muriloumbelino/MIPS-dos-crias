@@ -19,4 +19,4 @@ Este projeto consiste na implementação de um processador funcional baseado na 
 5. No menu superior, vá em `Simular > Pulso habilitado` (Ctrl+K) para iniciar o clock.
 
 ## Demonstração e Vídeo Explicativo
-[Insira o link do YouTube/Drive aqui]
+(https://www.youtube.com/watch?v=XIRZQT6yhlA)
